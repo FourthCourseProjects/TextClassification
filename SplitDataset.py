@@ -16,4 +16,4 @@ class SplitDataset:
         self.test_output = tuple[3]
 
     def as_list(self):
-        return [self.training_input, self.training_output, self.test_input, self.test_output]
+        return self.training_input, self.training_output, self.test_input, self.test_output
