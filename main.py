@@ -1,5 +1,5 @@
 from NewsGroupDataset import NewsGroupDataset
-from SplitDataset import SplitDataset, DatasetSplitter
+from SplitDataset import DatasetSplitter
 
 dataset = NewsGroupDataset()
 print(dataset.output.shape)
