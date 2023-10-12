@@ -1,7 +1,7 @@
 import numpy as np
 from sklearn.datasets import fetch_20newsgroups
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.preprocessing import OneHotEncoder, LabelEncoder
+from sklearn.preprocessing import LabelEncoder
 
 
 class NewsGroupDataset:
