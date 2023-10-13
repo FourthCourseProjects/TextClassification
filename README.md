@@ -23,10 +23,6 @@ We've used the following models to classify our text dataset:
 
 Ensure you have a working Python environment. Dependencies and setup instructions are provided within the repository.
 
-## Usage
-
-You can run each model separately. For best results, ensure your data is preprocessed appropriately before input into the model. Each model script contains detailed comments and guidelines for usage.
-
 ## Results and Analysis
 
 Each model's performance varies based on the nature and distribution of the dataset. It's recommended to visualize and evaluate results comprehensively. We've provided an evaluation module for easy comparison of model outputs.
