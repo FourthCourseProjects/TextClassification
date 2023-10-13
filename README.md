@@ -1,4 +1,5 @@
 # Text Classification
+[![Skill Icons](https://skillicons.dev/icons?i=py&perline=2)](https://skillicons.dev)
 
 This repository provides an exploration of various machine learning and clustering models on text data. Our aim is to understand and compare the performance of these algorithms when applied to natural language processing tasks.
 
