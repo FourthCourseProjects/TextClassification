@@ -1,4 +1,4 @@
-# Text Classification Models
+# Text Classification
 
 This repository provides an exploration of various machine learning and clustering models on text data. Our aim is to understand and compare the performance of these algorithms when applied to natural language processing tasks.
 
